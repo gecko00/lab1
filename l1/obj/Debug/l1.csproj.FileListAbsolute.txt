@@ -1,0 +1,18 @@
+c:\users\packie\documents\visual studio 2015\Projects\l1\l1\bin\Debug\l1.exe.config
+C:\Users\Packie\Documents\Visual Studio 2015\Projects\l1\l1\bin\Debug\l1.exe
+C:\Users\Packie\Documents\Visual Studio 2015\Projects\l1\l1\bin\Debug\l1.pdb
+C:\Users\Packie\Documents\Visual Studio 2015\Projects\l1\l1\obj\Debug\l1.csprojResolveAssemblyReference.cache
+C:\Users\Packie\Documents\Visual Studio 2015\Projects\l1\l1\obj\Debug\l1.Form1.resources
+C:\Users\Packie\Documents\Visual Studio 2015\Projects\l1\l1\obj\Debug\l1.Properties.Resources.resources
+C:\Users\Packie\Documents\Visual Studio 2015\Projects\l1\l1\obj\Debug\l1.csproj.GenerateResource.Cache
+C:\Users\Packie\Documents\Visual Studio 2015\Projects\l1\l1\obj\Debug\l1.exe
+C:\Users\Packie\Documents\Visual Studio 2015\Projects\l1\l1\obj\Debug\l1.pdb
+F:\[Visual Studio]\l1\l1\bin\Debug\l1.exe.config
+F:\[Visual Studio]\l1\l1\obj\Debug\l1.exe
+F:\[Visual Studio]\l1\l1\obj\Debug\l1.pdb
+F:\[Visual Studio]\l1\l1\bin\Debug\l1.exe
+F:\[Visual Studio]\l1\l1\bin\Debug\l1.pdb
+F:\[Visual Studio]\l1\l1\obj\Debug\l1.csprojResolveAssemblyReference.cache
+F:\[Visual Studio]\l1\l1\obj\Debug\l1.Form1.resources
+F:\[Visual Studio]\l1\l1\obj\Debug\l1.Properties.Resources.resources
+F:\[Visual Studio]\l1\l1\obj\Debug\l1.csproj.GenerateResource.Cache
